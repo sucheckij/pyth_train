@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cars><car rej="DW12345"><brand>BMW</brand><model>Serie 4</model><color>czarny</color><year>2007</year><price currency="PLN">115</price><motor_type>benzyna</motor_type></car><car rej="ONA2345"><brand>Trabant</brand><model>Noname</model><color>zielen</color><year>1960</year><price currency="EUR">100</price><motor_type>benzyna</motor_type></car></cars>
