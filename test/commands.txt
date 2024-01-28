@@ -1,0 +1,22 @@
+--- TERMINAL COMMANDS ---
+
+------------
+lib pytest-xdist - library to simuntaneusly running pytest scripts
+lib pytest-html - library to create report in html in pytest
+lib capsys - some library - to be checked
+------------
+
+pytest
+pytest -v
+pytest -h Help
+pytest --co #lista plików z testami
+pytest -s # #pełny opis jeśli występuje
+pytest tests/test_compare.py -v #konkretny plik z testami
+pytest -k greater # testy z słowe greater w nazwie
+pytest -m other # testy z dokoratorem other
+pytest -m "great or other" # znacznik great lub other
+pytest test.py -v -maxfail 1  # robi testy i wylacza je w przypadku pierwszego faila
+pytest -m multiplicationall -v --junitxml="report.xml" # create report in xml
+
+pytest -m multiplicationall -v --html="report.html"  # create report in html
+

@@ -1,0 +1,12 @@
+https://docs.python.org/pl/3.13/tutorial/floatingpoint.html
+
+Pdf https://medium.com/quantrium-tech/identifying-text-based-and-image-based-pdfs-using-python-10dba29a02b4
+http://api.nbp.pl/api/exchangerates/tables/A/?format=json
+https://www.dailymotion.com/video/x80s5f1
+https://stackoverflow.com/questions/252417/how-can-i-use-a-dll-file-from-python
+
+https://www.pythontutorial.net/pyqt/pyqt-qfiledialog/
+
+designpatterns.com - wzroce projektowe
+realpython - dobra strona tutoriali w pythonie
+pythonprojectstructure - wzorce i struktury projektowania w pythonie
